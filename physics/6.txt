@@ -1,0 +1,31 @@
+As we know that in an alternating current circuit, both electromotive force and current change continuously with respect to time. This is the main reason why we cannot calculate the power for the same, as power is equal to the product of voltage and time. The average power of an alternating current circuit can be calculated by calculating the instantaneous power of the circuit.
+
+In an AC circuit the average power dissipation can be calculated by,
+
+are peak values of e.m.f and current and 
+
+is period of alternating current. 
+
+ is called apparent power or virtual power.
+
+Power dissipation takes place only in the resistor in an AC circuit.
+
+For a series LCR circuit at resonance a purely resistive circuit is given as:
+
+For a purely inductive or a capacitive circuit, 
+
+Power increases when an a.c circuit contains resistor. The power of a.c circuit decreases when an inductor or capacitor is connected in series to the resistor.
+
+The average power of an a.c circuit is called the true power of the electrical circuit and is called as Power factor.
+
+Power Factor of an alternating current circuit is the ratio of true power dissipation to the apparent power dissipation in the circuit.
+
+
+The value of power of an a.c circuit lays between 
+
+ and 
+
+For a purely inductive or capacitive circuit it is 
+
+ and for purely resistive circuit it is 
+

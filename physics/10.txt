@@ -1,0 +1,22 @@
+Communication is the act of transmission of information, and the elements involved in this act together make a communication system. Every living thing is constantly interacting with everything around and out of this interaction arises information. The entire process of something transmitting the signal, you receiving it and then finally understanding it is called Communication. The transmitter, the receiver and the medium of transmission together constitutes a system.
+
+More on that later, let’s first look at communication closely. For information to be understood by you, it has to be conveyed in a form that you can understand. A blind person cannot see and so he will not understand anything if you show him the picture. What you need to do is describe the picture to him. Similarly, the language in which the information is transmitted is very important. Languages and methods of communications have evolved constantly. Your grandparents communicated through letters, your parents through phones and you through the internet.
+
+Elements of a Communication System
+Communication is omnipresent in all stages of life of a living being. Irrespective of its nature, every communication has three elements; transmitter, medium/ channel and receiver.
+
+communication system
+The information source generates the information to be transmitted; say a news reporter at a television recording centre. The video recorders record the video and convert the visual data into binary data since that is the language computers understand. This video then has to reach your home specifically on your TV screen. This can be done through cable TV or through wireless transmission like the DTH in homes now.
+
+The transmission is done by a transmitter that sends the video converted to binary data to receivers i.e the people watching TV at home. The purpose of the transmitter is to convert the signal produced by the source into a form suitable for transmission. Wireless communication system is a little more complex than the wired system but essentially the basic processes are the same. Receivers at home receive the signal from the television centre.
+
+communication system
+
+The long thin rod you see on the radio is called antennae and this is what receives the signals. The antennae receives the signal and converts it back from binary form to video form and the TV shows it to us in the visual form which we are able to understand easily. Receiver basically reconstructs what the transmitter has seen using the signals it has received. Because no system is perfect, during the transmission and reception, there is an addition of channel imperfections called noise.
+
+Noise reduces the quality of information transmitted and hence should always be controlled. There are two basic modes of communication:
+
+Point-to-point : Signal is transmitted from the transmitter to one specific receiver; eg Telephone calls.
+Broadcast : Signal transmitted distributes to many receivers; eg, Television centre to house all over India.
+Rapid Growth
+Communication systems have grown rapidly and this growth has enabled humans from all across the globe to connect and share information. The internet age is another new era in this field and it has widely surpassed its predecessor – the telephone – in both popularity and utility.

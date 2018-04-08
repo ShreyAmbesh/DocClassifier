@@ -1,0 +1,55 @@
+Nuclear physics is the field of physics that studies atomic nuclei. In other words, nuclear physics deals with the components and structure of the nucleus. Nuclear reaction comprises of the merging of nuclei, radioactive decay, fusion, fission and break-up of a nucleus.
+Nuclear Physics
+
+ 
+
+Nuclear Physics and Atomic Physics:
+The simple difference between nuclear physics and atomic physics is that nuclear physics deals with the nucleus while atomic physics deals with an entire atom. But isn’t nucleus a part of the atom? Then why do we have two separate branches?
+Atomic physics deals with the properties of an atom as a whole, mainly due to its electronic configuration. Of course, nucleus is a part of this but only in terms of its overall contribution.
+Nuclear physics, on the other hand, deals exclusively with nuclei, their structures, properties, reactions and interactions. Nuclear Physics Atoms make up all the matter in the universe.
+Nucleus is densely concentrated at the core of an atom. The study and research on nuclear physics concerns itself with the forces that are able to hold this dense matter at the core among other things like understanding quarks and gluons.
+The application of nuclear physics is largely in the field of power generation using nuclear energy. Once the force holding the nucleus was understood, we started splitting and fusing neutrons.
+The energy evolved in this process can be used in the splitting of the nucleus to generate energy in Nuclear Fission and fusing two neutrons to generate energy is Nuclear Fusion.
+Radius of Nucleus:
+ represents the radius of nucleus.
+
+Here,
+
+ Proportionality Constant
+
+mass number of the element.
+
+Total number of protons & neutrons in a nucleus:
+The Mass number (A), also known as nucleon number, is the total number of neutrons and protons in a nucleus.
+
+
+Where,
+
+Neutron number
+
+Mass number
+
+Proton number
+
+Mass Defect:
+When nuclei are formed, some of the mass gets lost during the process and this lost mass is known as a mass defect.
+
+Here,
+
+ Mass of the nucleus
+
+Mass of the nucleons – Mass of the nucleus
+
+ Mass of the Proton
+Mass of the Neutron
+
+Packing Fraction:
+Packing fraction is defined as Mass defect per nucleon.
+
+Packing fraction  = Mass defect per nucleons
+
+Use of Nuclear Physics and Atomic Physics:
+Continuous research in the field of nuclear physics has helped us find various other uses. For example, we now have nuclear medicine, nuclear weapons and have even found its uses in geology and archaeology in terms of carbon dating.
+Atomic Physics An atom is made of a dense nucleus having neutrons and protons at the core surrounded by orbiting electrons as per the configuration. The centre is positively charged and the surrounding cloud of electrons carries a negative charge. As a whole the atoms in consideration can either be neutral or carry a charge (in this case we call them ions).
+In many places, you may have seen that atomic energy is the source of energy production in terms of nuclear fission and fusion. Let this not confuse you as they both are often used and associated together. The cutting difference between the two has already been stated in the beginning of this article.
+Atomic physics concerns itself with the entire atom and how electronic configuration of electrons can change. When an atom loses an electron, it becomes positively charged (cations) and when it gains an electron it becomes negatively charged (anions).

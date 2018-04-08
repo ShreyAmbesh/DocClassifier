@@ -1,0 +1,34 @@
+Introduction to Current Electricity:
+Movement of electrical energy from one place to another for utilisation is termed as an Electric current or Current Electricity. Charges in motion establish an electric current.
+
+Electric Current:
+Any motion of charges from one section to another is current. When two bodies at different potentials are linked with a wire, free electrons stream from B to A, until both the objects reach the same potential, after which the current stops flowing. Until a potential difference is present throughout a conductor, current runs.  The division of physics that deals with charges in motion is termed as current electricity.
+
+Electromotive Force (EMF) and Voltage:
+Electromotive Force
+
+Just as a liquid in a horizontal tube does not flow, no current runs in a copper cable by itself. Water will flow out of the other end at a steady rate if one end of the tube is attached to a tank with water such that there is a pressure difference  amidst the two ends of the horizontal tube.
+
+Resistance and Resistivity:
+If the physical conditions  i.e. temperature, mechanical strain, etc. remain constant It was discovered through experimentation that the current travelling through a conductor is directly proportional to the potential difference V in between its two ends.
+
+Origin of Resistivity:
+Inside the conductor the electric charge is nil everywhere, and thus, there is no current in electrostatic situations.  This does not necessarily convey that all charges inside the conductor are at rest.
+
+Temperature Dependence of Resistivity:
+The resistivity of a metallic conductor virtually at all times grows with increasing temperature.
+
+Confines of Ohm’s Law:
+There are a large number  of universally used circuit elements which do not obey Ohm’s law as it is not a fundamental law of nature.
+
+Superconductivity:
+Some substances, including numerous alloys and metals, display a phenomenon termed as superconductivity.
+
+Resistors in Series and in Parallel:
+When resistors, can be linked in such a way that equal amounts of current flows in them, then they are said to be attached in series. The resistors are believed to be linked in parallel if the electric potential difference is similar across each resistor.
+
+Electric Circuits and Kirchhoff’s Rules:
+Ohm’s law cannot be applied in many electrical circuits. This is caused when resistors are linked in a complex manner or when there is more than one source of emf in the circuit. Two laws founded on charge neutrality in a metal were developed by Gustav Robert Kirchhoff to solve such complicated circuits.
+
+Current flowing through a agreed area of a conductor is the net charge traveling per unit time through the area.
+

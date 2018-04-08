@@ -1,0 +1,17 @@
+Like all the different types of light, the spectrum of visible light is absorbed and emitted in the form of tiny packets of energy called as photons. These photons have both the properties of a wave as well as a particle. Hence this type of property is called as wave–particle duality and the study of light in the area of physics is known as Optics.
+
+Optics 
+
+Optics is a branch of physics that deals with the determination of behavior and the properties of light, along with its interactions with the matter and also with the instruments which are used to detect it. Optics, in a simple manner, is used to describe the behavior of visible light, infrared light, and the ultraviolet. Imaging is done with the help of a system called as an image forming an optical system.
+
+Light and its Optical properties
+Light is a form of energy which is in the form of an electromagnetic wave and is almost everywhere around us. The visible light has wavelengths measuring between 400–700 nanometres. Sun is the primary source of light by which plants utilize this to produce their energy.
+
+In physics, the term light also refers to electromagnetic radiation of different kinds of wavelength, whether it is visible to the naked eye or not. Hence by this, the gamma rays, microwaves,  X-rays and the radio waves are also types of light. Light exhibits various properties which are given below-
+
+Reflection- Reflection is one of the primary properties of light. Reflection is nothing but what you see the images in the mirrors. Reflection is defined as the change in direction of light at an interface in-between two different media so that the wave-front returns into a medium from which it was originated. The typical examples for reflection of light include sound waves and water waves.
+Speed of light- The rate at which the light travels in free space is called as Speed of light. For example, the light travels 30% slower in water when compared to vacuum.
+Refraction- The bending of light when it passes from one medium to another is called as Refraction. This property of refraction is used in a number of devices like microscopes, magnifying lenses, corrective lenses, and so on. In this property, when the light is transmitted through a medium, polarization of electrons takes place which in-turn reduces the speed of light, thus changing the direction of light.
+Total internal reflection- When a beam of light strikes the water, a part of the light is reflected, and some part of the light is refracted. This phenomenon is called as Total internal reflection.
+Dispersion- It is a property of light, where the white light splits into its constituent colors. The phenomenon of dispersion can be observed in the form of a prism.
+The other properties of light include diffraction and interference. So, what you observe when, you look out at the beautiful scenario? Whether the light gets reflected, dispersed, refracted, internally reflected or diffracted.

@@ -1,0 +1,15 @@
+A coordination compound consists of a central atom or ion, usually a metal known as the coordination center. It is surrounded by an array of bound molecules or ions. These molecules or ions are known as ligands. Earlier, most of the coordination compounds with same structural formula were known by different names depending on the regions where they were synthesized. To end these ambiguities, IUPAC standards have been accepted for the nomenclature of coordination compounds globally. Nomenclature of coordination compounds is based on the principle of additive nomenclature. IUPAC proposed following rules for the nomenclature of coordination compounds:
+
+1. In both positively and negatively charged coordination entities, the cation is to be named first.
+
+2. The ligands attached to the central atom/ion are named in an alphabetical order before the name of the central atom/ion.
+
+3. For anionic ligands the name of the ligand ends with suffix “o”, for example “CN” is written as cyanido, for neutral and cationic ligands have the same name except aqua for H2O, ammine for NH3, carbonyl for CO, etc.
+
+4. Roman numerals are used to indicate the oxidation state of the metal in cation, anion or neutral coordination compound. The oxidation state is indicated in parenthesis after the name of metal.
+
+5. The number of individual ligands in the coordination entity is denoted by prefixes mono, di, tri, etc. When the name of a ligand includes a numerical prefix, then the terms, bis, tris, tetrakis are used. For example, [Co (H2NCH2CH2NH2)3]2(SO4)3 is named as tris(ethane-1, 2–diamine)cobalt(III) sulphate.
+
+6. If the complex ion is an anion, the name of the metal ends with the suffix – ate. For example, Co in a complex anion is called cobaltate. If the complex ion is a cation, the metal is named same as the element. For example, Co in a complex cation is called cobalt.
+
+7. The neutral coordination compounds are named in similar fashion as the complex cation. For example: [Ni(CO)4] is named as Tetracarbonylnickel(0).

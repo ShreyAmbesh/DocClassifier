@@ -1,0 +1,43 @@
+Mechanics is the branch of Physics dealing with the study of motion when subjected to forces or displacements, and the subsequent effects of the bodies on their environment.
+
+Mechanics
+
+There are two sub disciplines Classical Fields and Quantum Fields
+
+Classical mechanics
+
+Classical mechanics deals with the question of how an object moves when it is subjected to various forces, and also with the question of what forces act on an object which is not moving.
+
+The word “classical” indicates that we are not discussing situations in which an object moves with a velocity which is an appreciable fraction of the velocity of light or phenomena on the atomic scale. The description of atomic phenomena requires quantum mechanics, and the description of phenomena at very high velocities requires Einstein’s Theory of Relativity. Both quantum mechanics and relativity were invented in the twentieth century; the laws of classical mechanics were stated by Sir Isaac Newton in 1687. The laws of classical mechanics enable us to calculate the trajectories of bullets and baseballs, planets and space vehicles. Using these laws we can predict the position-versus-time relation for a cylinder rolling down an inclined boat or for an oscillating pendulum, and can calculate the tension in the wire when a picture is hanging on a wall.
+
+The practical importance of the subject hardly requires demonstration in a world which contains buildings, automobiles, airplanes,ballistic missiles, bridges, for a person who does not have any professional reason there is a compelling intellectual reason to study classical mechanics: this is the example par excellence of a theory which explains an incredible multitude of phenomena on the basis of a minimal number of simple principles.
+
+Quantum Mechanics
+
+Quantum mechanics can be thought of roughly as the study of physics on very small length scales, although there are also certain macroscopic systems it directly applies to. The descriptor “quantum” arises because in contrast with classical mechanics, certain quantities take on only discrete values.However, some quantities still take on continuous values,In quantum mechanics, particles have wavelike properties, and a particular wave equation,the Schrodinger equation, governs how these waves behave. The Schrodinger equation is different in a few ways from the other wave equations we’ve seen in this book. But these differences won’t keep us from applying all of our usual strategies for solving a wave equation and dealing with the resulting solutions.
+
+In some respect, quantum mechanics is just another example of a system governed by a wave equation. However, although it is fairly straightforward to deal with the actual waves, there are many things about quantum mechanics that are a combination of subtle, perplexing, and bizarre. To name a few: the measurement problem,hidden variables along with Bell’s theorem, and wave-particle duality.Even though there are many things that are highly confusing about quantum mechanics,the nice thing is that it’s relatively easy to apply quantum mechanics to a physical system to figure out how it behaves.
+
+Statistical Mechanics
+
+This branch of statistical mechanics which treats and extends classical thermodynamics is known as statistical thermodynamics or equilibrium statistical mechanics.
+
+We apply statistical mechanics to solve for real systems (a system for many particles). We can easily solve the Schrodinger's equation for 1 particle, atom or a molecule. For many particles, the solution will take the form :
+total = linear combination of 
+
+Where  a means a particle in state a with an energy 
+
+For example, we consider particles conned in a cubic box of length From quantum
+mechanics, the possible energies for each particle is :
+
+For example in an ideal gas, We assume that the molecules are non-interacting, 
+they do not affect each other's energy levels. Each particle contains a certain energy.
+
+At  the system possesses a total energy
+
+So, how is  distributed among the particles? Another question would be, how the particles are distributed over the energy levels.
+
+We apply statistical mechanics to provide the answer and thermodynamics demands that the entropy be maximum at equilibrium.
+
+Thermodynamics is concerned about heat and the direction of heat flow, whereas
+statistical mechanics gives a microscopic perspective of heat in terms of the structure of matter and provides a way of evaluating the thermal properties of matter, for heat Capacity.

@@ -1,0 +1,48 @@
+Electromagnetic waves are nothing but changing magnetic and electric fields.
+Electromagnetic waves are solutions of Maxwell’s equations, which are the fundamental equations of electrodynamics. He described that magnetic field can be produced by changing electric field.
+How are Electromagnetic waves formed?
+Generally, an electric field is produced by a charged particle. A force is exerted by this electric field on other charged particles. Positive charges accelerate in the direction of the field and negative charges accelerate in a direction opposite to the direction of the field.
+The Magnetic field is produced by a moving charged particle. A force is exerted by this magnetic field on other moving particles. The force on these charges is always perpendicular to the direction of their velocity and therefore only changes the direction of the velocity, not the speed.
+So, the electromagnetic field is produced by an accelerating charged particle. Electromagnetic waves are nothing but electric and magnetic fields travelling through free space with the speed of light c. An accelerating charged particle is when the charged particle oscillates about an equilibrium position. If the frequency of oscillation of the charged particle is f, then it produces an electromagnetic wave with frequency f. The wavelength λ of this wave is given by λ = c/f.  Electromagnetic waves transfer energy through space.
+Graphical Representation of Electromagnetic Waves:
+Electromagnetic waves are shown by a sinusoidal graph. It consists of time-varying electric and magnetic fields which are perpendicular to each other and are also perpendicular to the direction of propagation of waves. Electromagnetic waves are transverse in nature. The graph is as shown below:
+
+Mathematical Representation of Electromagnetic Wave:
+A plane Electromagnetic wave travelling in the x-direction is of the form
+
+In the electromagnetic wave, E is the electric field vector and B is the magnetic field vector.
+
+Maxwell gave the basic idea of electromagnetic waves, while Hertz experimentally confirmed the existence of electromagnetic wave.
+
+The direction of propagation of the electromagnetic wave is given by vector cross product of electric field and magnetic field. It is given as:
+
+Electromagnetic Wave Equation:
+Electromagnetic wave equation describes the propagation of electromagnetic waves in a vacuum or through a medium.
+The electromagnetic wave equation is a second order partial differential equation.
+It is a 3D form of the wave equation.
+The homogeneous form of the equation is written as,
+Where,
+
+Intensity of an Electromagnetic Wave:
+
+Speed of Electromagnetic Waves in Free Space:
+
+ is called absolute permeability. It’s value is 
+
+ is called absolute permittivity. It’s value is 
+
+
+ is the velocity of light in vacuum = velocity of electromagnetic waves in free space = 
+
+Electromagnetic Spectrum:
+
+
+Electromagnetic waves are classified according to their frequency  or according to their wavelength 
+
+Wavelength ranges of different lights are as follows,
+
+For visible light –
+
+For violet light –
+
+For red light – 

@@ -1,0 +1,45 @@
+Aldehydes and ketones incorporate a carbonyl functional group, C=O. These are organic compounds with structures -CHO and RC(=O)R’ where R and R’ represent carbon-containing substituents respectively. Aldehydes and Ketones are often called as methanoyl or formyl group. The carbon atom of this group has 2 remaining bonds that might be occupied by aryl or alkyl or substituents. If neither of these substituents is hydrogen, the compound is a Ketone. If at least one is hydrogen, the compound is an Aldehyde.
+
+Aldehydes and Ketones
+
+Aldehydes
+In aldehydes, the carbonyl group has one hydrogen atom attached to it together with either a 2nd hydrogen atom or a hydrogen group which may be an alkyl group or one containing a benzene ring.
+
+Example:
+
+Aldehydes
+
+One can notice that all these have the exact same end to the molecule. The only difference is the complexity of the other attached group.
+
+Ketones
+In ketones, the carbonyl group has 2 hydrocarbon groups attached to it. These can be either the ones containing benzene rings or alkyl groups. Ketone does not have a hydrogen atom attached to the carbonyl group.
+
+Example:
+
+Ketones
+
+Propane is generally written as CH3COCH3.  In pentanone, the carbonyl group could be in the middle of the chain or next to the end – giving either pentan-3-one or pentan-2-one.
+
+Occurrence of Aldehydes and Ketones
+Combined with other functional group aldehydes and ketone are widespread in nature. Compounds such as cinnamaldehyde (cinnamon bark), vanillin (vanilla bean), Citra (lemongrass), helminthosporal (a fungal toxin), carvone (spearmint and caraway), camphor (camphor trees) are found chiefly in microorganisms or plants. Whereas, compounds such as muscone (musk deer), testosterone (male sex hormone), progesterone (female sex hormone), cortisone (adrenal hormone) have animal and human origin.
+
+Uses of Aldehydes and Ketones
+Formaldehyde is the simplest aldehyde whereas acetone is the smallest ketone. There are a number of aldehydes and ketones which find application due to their chemical properties. Some uses of Aldehydes and Ketones are discussed in the points below.
+
+Uses of Aldehydes
+Formaldehyde is a gas. With 40% solution in water, it forms Formalin which is used in preserving biological specimens.
+Formaldehyde is used in embalming, tanning, preparing glues and polymeric products, as germicides, insecticides, and fungicides for plants. It is also used in drug testing and photography.
+When reacted with phenol, formaldehyde forms Bakelite, which is used in plastics, coatings, and adhesives.
+Acetaldehyde is largely used for the production of acetic acid and pyridine derivatives.
+Benzaldehyde is used in perfumes, cosmetic products, and dyes. It is added to provide almond flavor to food products and also used as a bee repellent.
+Uses of Ketones
+The most common ketone is acetone which is an excellent solvent for a number of plastics and synthetic fibers.
+In the household, acetone is used as a nail paint remover and paint thinner.
+In medicine, it is used in chemical peeling and for acne treatments.
+Methyl ethyl ketone (MEK), chemically butanone, is a common solvent. It is used in the production of textiles, varnishes, plastics, paint remover, paraffin wax, etc.
+MEK is also used as a welding agent for plastics due to its dissolving properties.
+Cyclohexanone is another important ketone which is primarily used in the production of nylon.
+Preparation of Aldehydes and Ketones
+Aldehydes and Ketones are obtained from products of many reactions. Some reactions for the synthetic preparation of Aldehyde and Ketone is mention below.
+
+Preparation of Aldehydes and Ketones

@@ -1,0 +1,28 @@
+Semiconductors are crystalline or amorphous solids with distinct electrical characteristics. Their electrical resistance is high but lower than that of insulators.
+
+They are mainly classified as:
+
+Intrinsic Semiconductors
+Extrinsic Semiconductors
+Intrinsic Semiconductors:
+ 
+Semiconductor
+
+The semiconductor material which does not have any impurities is known as intrinsic Semiconductor or pure semiconductors. Silicon and Germanium, which belong to the fourth group element, behave like a semiconductor. Each atom of silicon and germanium share an electron with their neighbours. A Silicon atom and its neighbours share a pair of electrons in covalent bonding. Whenever a covalent bond break, an electron-hole pair is formed. To remove the valence electrons from the outer shells a semiconductor atom needs the energy of the order 1.1 eV. The vacancy in the covalent bond is called a hole. Any other electron can fill this hole. In other words, a hole shifts from one covalent bond to another. We can assume that the hole is a positive charge carrier since the direction of the hole is opposite to that of the electron. In an intrinsic semiconductor, electrons and holes move in random directions and the number of free electrons (ne) and holes (nh) remain same.
+
+Extrinsic Semiconductors:
+The introduction of the extrinsic semiconductor is due to the excess holes or excess electrons present in silicon. Pure semiconductors are of no use as there are very few charge carriers which can cause conduction process. By adding some impurities to the pure semiconductor the conductivity can be improved. This process is called doping.
+
+Depending on the type of doping material used, extrinsic semiconductors can be classified as:
+
+N-type semiconductors
+P-type semiconductors
+N-type Semiconductors:
+n-type semiconductors
+
+The N-type semiconductor has a large number of electrons in the conduction band and less number of holes in the valence band, so electrons are called majority carriers and holes are called minority carriers. A pentavalent impurity such as phosphorous or arsenic is added to the silicon crystal. Out of five valence electrons, four silicon atoms take part in covalent bonding with one arsenic/phosphorus atom. The fifth electron is loosely bound to the silicon atom. Such a silicon crystal is still electrically neutral as the extra electron does not show up as an additional charge in the atom.
+
+P-type Semiconductors:
+p-type semiconductors
+
+The P-type semiconductor has a large number of hole in the conduction band and less number of electrons in the valence band, so holes are called majority carriers and electrons are called minority carriers. A trivalent impurity such as Boron is mixed with the silicon atoms. Boron can share three valence electrons with the silicon atom; the boron atom takes one electron from nearby covalent bonds with the silicon atom in order to complete eight electrons in its valence shell. As the trivalent impurity atoms accept electrons from the silicon atom, it is known as an acceptor impurity. The p-type silicon crystal so obtained is called p-type extrinsic semiconductor and the holes created are extrinsic carriers.

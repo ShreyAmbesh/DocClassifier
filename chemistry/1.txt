@@ -1,0 +1,31 @@
+
+Chemical Kinetics deals with the study of change in quantity or amount of a reactant in unit time and the factors that affect it. The term kinetics is itself derived from the Greek word ‘kinesis’ which means movement, so chemical kinetics deals with the movement of reactants and the products, that is, increase or decrease in the quantity of reactants or products per unit time. We know that mole is used to quantify the amount of matter. Most of the reactants are used in solution form so, in order to quantify the change in the amount per unit time for a reactant or a product we use reactant or product concentration that is molarity(moles/litre) as the measure of quantity.
+
+Factors Affecting Reaction Rate:
+Concentration
+Some of us must have seen that the time taken by coal for complete combustion depends on the quantity of coal. Combustion of fuel is a chemical process in which coal burns to give oxides of carbon and H2O. In the case of coal if the amount of fuel is increased, then the time taken for combustion will also increase and hence the rate of reaction will decrease. But this is not the same with all the chemical reactions. We measure the quantity of reactants and products regarding their concentrations. If the concentration of a reactant is increased, then it may result in an increased rate of reaction, or may not even affect the speed of response, or it may even lead to a decreased reaction rate.  To determine the dependencies of reactants and products on the rate of reaction, rate law is established.
+
+Rate Expression
+Rate Law, or Rate Expression, or Rate Equation, is an experimentally determined equation that expresses the rate of a particular reaction regarding the concentrations of the reactants.  Consider the following reaction, where and are reactants, and are the products are reaction coefficients.
+
+
+
+So, for the above reaction Rate Equation may be written as:
+
+
+
+Where k is the proportionality constant called as the rate constant. and are concentrations of reactants and  respectively,  and  are experimentally determined values, and they may or may not be same as the reaction coefficients. Now, if we take a look at equation , we can say how would the rate of reaction change if we change the concentration of the reactants M and N.
+
+ and  are concentrations of reactants  and  respectively,  and  are experimentally determined values, and they may or may not be same as the reaction coefficients. Now, if we take a look at equation , we can say how would the rate of reaction change if we change the concentration of the reactants  and 
+
+Order of reaction
+Let us consider reactant M if we increase [M] then the effect it would cast on the reaction rate will depend on the exponent x in equation (1), if  is positive then the rate of reaction will increase, and if x is negative then the rate of reaction will decrease. Same will be the case with reactant . The exponent  and  are called order of reaction with respect to reactants M and N respectively. The overall order of reaction is the sum of the exponents of all the reactant’s concentration in the rate expression.
+
+Some facts about the order of reaction:
+
+It is an experimentally determined value.
+It can be negative, positive or a fraction.
+It can be zero.
+Now, we can conclude that the rate of any reaction depends on the concentration of reactants which is determined by the rate law or rate equation for a particular reaction. The concentration of reactants and products play a pivotal role in the chemical reaction. If the behavior of a reaction is known, that is, how it depends on the concentrations of reactants then the parameters like product formation, duration of reaction can be controlled. This results in an advantage for the process engineers to optimize their processes for the best and the most economical results.
+
+The world of kinetics is not just limited to rate expressions and order of reaction. These are just the tools that we need to acquire so that we can have the better understanding of the chemistry around us. The topics that would be discussed now onward at BYJU’s are much more intriguing. Zeroth order reaction, first-order reaction and collision theory will add different dimensions to your understanding of chemistry

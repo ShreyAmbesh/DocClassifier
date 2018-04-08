@@ -1,0 +1,24 @@
+Genetics mainly deals with the study of genes, heredity, and genetic variation. Genes exist on chromosomes and chromosomes are comprised of DNA and proteins. DNA is a molecule that carries genetic information in all living organisms and viruses where it is used in reproduction, functioning, growth, and development. It is a long polymer of deoxyribonucleotides.
+
+The structure of DNA:
+DNA is made up of 6 molecular structures that comprise of one phosphate molecule and five carbon sugar termed deoxyribose. A nucleotide is a basic building block of DNA. A nucleotide is comprised of one of the 4 bases, one sugar molecule, and one phosphate molecule. A sugar-phosphate chain act as a backbone and bases are on the inside. Nucleotide subunits are linked together to form a DNA strand thus providing polar stability.
+
+Molecular Basis of Inheritance
+
+The three-dimensional structure of DNA arises from chemical and structural features of 2 polynucleotide chain. A purine base pairs up with pyrimidine base. For instance guanine pairs with cytosine. So the two strands that are held together by a hydrogen bond are complementary to each other and they run in the antiparallel direction.
+
+RNA:
+Ribonucleic acid or RNA is a vital molecule with a long chain of nucleotides. It is a first genetic material. A nucleotide chain comprises a phosphate, a ribose sugar, and nitrogenous base. RNA acts as a catalyst and as a genetic material. There are two types of RNA, that is genetic and non-genetic.
+
+Genetic Code
+Genetic code can be defined as a set of rules wherein the information encoded in genetic materials are translated into proteins by living cells. The code defines how codons specify which amino acids will be added next during protein synthesis. The frequency of codon is termed as codon usage bias. It varies from species to species in terms of functional implications for the control of translation.
+
+Genetic code can also be defined as a relationship between the sequence of amino acids in a nucleotide chain of mRNA or DNA and amino acid in a polypeptide chain. Nearly twenty types of amino acids participate in protein synthesis. Sixty-one codons out of sixty-four codons code only for amino acids. The characteristics of the genetic code are stated below:
+
+Degeneracy of genetic code.
+Non-overlapping.
+Universality.
+Triplet in nature.
+Comma-less.
+Non-ambiguous.
+

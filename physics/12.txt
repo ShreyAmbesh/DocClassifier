@@ -1,0 +1,21 @@
+Simply put, the power of a lens in Ray Optics is its ability to bend light. The greater the power of a lens, the greater is its ability to refract light that passes through it. For a convex lens, the converging ability is defined by power and in a concave lens, the diverging ability.
+
+Check out the following ray diagrams
+
+Ray Optics
+
+Do you notice the connection between the focal length and the bending of the light ray? As the focal length decreases, the amount the light bends increases. Therefore, we can conclude that power of a lens if inversely proportional to the focal length of the lens. A short focal length basically contributes to a high optical power.
+
+To find the power of a lens in Ray Optics, the following formula can be used.
+
+Ray Optics
+
+If the focal length is given in meters , the power of the lens if measured in Diopters , as in the unit of power of the lens is diopter. Another thing you should keep in mind is that for a converging lens the optical power is positive and for a diverging lens, it is negative.
+
+For example, if the focal length of a lens is , converting this to meters, we get 
+
+To find the power of this lens, take the reciprocal of  and we get . Therefore the power of this particular lens if 
+
+If you’ve previously read about the lens maker’s formula, you would’ve realized that what we are calculating there is actually the power of the lens. This means that you can calculate the power of a lens using radii of curvature of two surfaces and the refractive index of the lens material.
+
+An important application of using the power of lenses is in ‘Optometry”. Optometrists prescribe corrective lenses (either convex or concave lens) based on depreciating vision. You’re actually eye is basically a lens and you may experience problems with having a clear vision sometimes. This can be rectified by wearing corrective lenses with the appropriate power.

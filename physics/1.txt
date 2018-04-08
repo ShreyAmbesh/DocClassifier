@@ -1,0 +1,33 @@
+Electromagnetism is a branch of Physics, deals with the electromagnetic force that occurs between electrically charged particles. Electromagnetic force is one of the four fundamental forces and exhibits electromagnetic fields such as magnetic fields, electric fields and light. It is the basic reason electrons bound to the nucleus and responsible for complete structure of nucleus.
+
+Before the invention of electromagnetism, people or scientists used to think magnetism and electricity are two different topics. The view has changed after James Clerk Maxwell published A Treatise on Electricity and Magnetism in the year 1873. The publication states that the interaction of positive and negative charges are mediated by one force. This observation laid foundation to Electromagnetism. Later many scientists like Michael Faraday, Oliver Heaviside and Heinrich Hertz contributed their ideas in electromagnetism.
+
+Electromagnetism is a process where magnetic field is created by introducing current in the conductor. When a conductor is electrically charged it generates magnetic lines of force of conductor. For example, if current i.e., positive charges moving in a wire, it produces magnetic field along the wire and the direction of magnetic lines, and force can be determined using Right Hand Rule. see the image for detailed explanation.
+
+Electromagnetism
+
+Electromagnetism
+
+Explanation with an Example
+
+Permanent Magnetic speakers commonly used in TV’s and Radios are perfect example of Electromagnetic devices. Let’s see the operation of these devices which are based on the principle of electromagnetism. See the picture below.
+
+Electromagnetism
+
+In order to convert electrical waves into audible sound, the speakers are designed. A metal coil is attached to a permanent magnet and when current passes through the coil it generates magnetic field. The newly formed magnetic field is repelled by the permanent magnetic field resulting in the vibrations. These vibrations are amplified by the cone like structure causing the sound. This is how speakers works based on electromagnetism.
+
+Electromagnetic Induction
+
+We have seen what happens when a conductor is electrically charged. Now, lets see what happens if we place conductor in between magnetic field.
+
+When a conductor is placed or moved through the magnetic field it generates voltage i.e., electricity. This principle is called Electromagnetic Induction. The voltages generated will be based the speed of conductor moving through the electric field. Faster the speed of conductor, greater the induced electricity or voltage.
+
+Faraday’s Law
+
+Faraday’s Law states that whenever there is relative motion between magnetic field and conductor, the flux linkage changes and this change in flux induces a voltage across the coil.
+
+Explanation with an example
+
+DC Generator works on the principle of Faraday’s Law Electromagnetic Induction. It is a system that converts mechanical energy into electrical energy.
+
+

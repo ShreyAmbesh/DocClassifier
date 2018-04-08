@@ -1,0 +1,35 @@
+Alcohol’s, phenol’s and ether’s are classes of organic compounds which find wide usage in a broad range of industries as well as for domestic purposes.
+
+Alcohol is formed when a saturated carbon atom is bonded to a hydroxyl (-OH) group.
+Phenol is formed when a hydrogen atom in benzene is replaced by the -OH group.
+Ether is formed when an oxygen atom is connected to two alkyl or aryl groups.
+In this section, we will discuss how alcohols, phenol’s and ether’s are classified.
+
+Classification of Alcohol
+Depending on the number of hydroxyl groups attached, alcohols can be classified into three types.
+
+Monohydric alcohols: They contain one -OH group. Example, CH3CH2-OH
+Dihydric alcohols: They contain two -OH groups. Example, 1,2-Ethandiol.
+Trihydric alcohols: They contain three -OH groups. Example 1,2,3-Propantriol.
+Classification of Alcohol
+Classification of Alcohol: Mono-hydric, Di-hydric, Tri-hydric
+
+Depending on the number of carbon atoms which are directly attached to the carbon that is bonded with the -OH group, alcohols can be classified into three types:
+
+Primary alcohols: One carbon atom is directly attached.
+Secondary alcohols: Two carbon atoms are directly attached.
+Tertiary alcohols: Three carbon atoms are directly attached.
+alcohol
+Classification of Alcohol: Primary, Secondary and Tertiary Alcohol
+
+Classification of Phenol
+Depending on the number of hydroxyl groups attached, phenol’s can be classified into three types.
+
+Monohydric phenols: They contain one -OH group.
+Dihydric phenols: They contain two -OH groups. They may be ortho-, meta- or para- derivative.
+Trihydric phenols: They contain three -OH groups.
+Classification of Ether
+Depending on the type of the alkyl or aryl groups attached to the oxygen atom in ether, it can be classified into two types.
+
+Symmetrical ether: Also known as the simple ether, the alkyl or the aryl group attached to either side of the oxygen atoms are the same. Examples are CH3OCH3, C2H5OC2H5, etc.
+Unsymmetrical ether: Also known as the mixed either, the alkyl or the aryl group attached to either side of the oxygen atoms, are not the same. Examples are CH3OC2H5, C2H5OC6H5, etc.

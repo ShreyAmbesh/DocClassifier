@@ -1,0 +1,36 @@
+What is a Polymer?
+A Polymer is a large molecule or a macro molecule which essentially is a combination of many sub units. The term polymer in Greek means ‘many parts’. Polymers can be found all around us. From the strand of our DNA which is a naturally occurring biopolymer to polypropylene, which is used throughout the world as plastic with many applications.
+
+Polymers are all created by the process of polymerization wherein their constituent elements called monomers, are reacted together to form polymer chains i.e 3-dimensional networks forming the polymer bonds. The type of polymerization mechanism used depends on the type of functional groups attached to the reactants. In biological contexts, almost all macro molecules are either completely polymeric or are made up of large polymeric chains.
+
+Structure of polymers
+We know a polymer is a chain of repeated sub units which when they combine together form a strong link governing the properties of the polymer. Most of the polymers we see around us are made up of a hydrocarbon backbone. A Hydrocarbon backbone being a long chain of linked carbon and hydrogen atoms, possible due to the tetravalent nature of carbon. A few examples of a hydrocarbon backbone polymer are polypropylene, polybutylene, polystyrene. Also, there are polymers which instead of carbon have other elements in its backbone like for instance Nylon, which contains nitrogen atoms in the repeated unit backbone.
+
+Types of polymers
+polymers
+types of polymers
+
+On the basis of the type of the backbone chain polymers can be divided into 2:
+
+Organic Polymers: Polymers with a carbon backbone.
+Inorganic Polymers: Polymers with a backbone constituted by elements other than carbon.
+Polymers on the basis of how they are synthesized can be divided into two:
+
+Natural Polymers: Polymers that occur naturally.
+Synthetic Polymers: Polymers made by man.
+Few of the important polymers out there are :
+
+Polypropylene: It is a type of polymer that softens beyond a specific temperature allowing it to be molded and on cooling it solidifies. Due to its ability to be easily molded into various shapes, it has a lot of applications. A few of which are in stationary equipment’s, automotive components, reusable containers speakers and much more. Due to its relatively low energy surface, the polymer is fused with welding process and not using glue.
+
+Polyethylene: It is the most common type of plastic found around us. Mostly used in packaging from plastic bags to plastic bottles. There are different types of polyethylene but their common formula being (C2H4)n.
+
+Properties of Polymers
+Physical Properties
+As chain length and cross-linking increases the tensile strength of the polymer increases.
+Polymers do not melt, they change state from crystalline to semi crystalline.
+Chemical properties
+Compared to conventional molecules with different side molecules, the polymer is enabled with hydrogen bonding and ionic bonding resulting in better cross-linking strength.
+Dipole-dipole bonding side chains enable the polymer for high flexibility.
+Polymers with Van der Waals forces linking chains are known to be weak, but give the polymer a low melting point.
+Optical Properties
+Due to their ability to change their refractive index with temperature as in the case of PMMA and HEMA: MMA, they are used in lasers for applications in spectroscopy and analytical applications.

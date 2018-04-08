@@ -1,0 +1,24 @@
+What is Electromagnetic Induction?
+When an induced current is produced because of voltage production (electromotive force) due to a changing magnetic field, it is called Electromagnetic Induction. This either happens when a conductor is placed in a moving magnetic field (when using ac power source) or when a conductor is constantly moving in a stationary magnetic field.
+
+This phenomenon was discovered by Michael Faraday. He arranged a conducting wire as per the setup given below, attached to a device to measure the voltage across the circuit. When a bar magnet was moved through the coiling, the voltage detector measure a voltage in the circuit.
+
+Electromagnetic Induction
+
+Through his experiments he discovered that there are certain factors that influence this voltage production. They are
+
+1. Number of Coils: The induced voltage is directly proportional to the number of turns/coils of the wire. Greater the number of turns, greater is voltage produced
+
+2. Changing Magnetic Field: Changing magnetic field affects the induced voltage. This can be done by either moving the magnetic field around the conductor or moving the conductor in the magnetic field.
+
+Importance of Electromagnetic Induction:
+Based on his experiments we now have Faraday’s law according to which the amount of voltage induced in a coil is proportional to the number of turns of the coil and the rate of changing magnetic field.
+
+Mathematically, the induced voltage can be given by the following relation.
+
+is the induced voltage (in volts)
+is the number of turns in the coil
+is the magnetic flux – amount of magnetic field at a surface (in Webers)
+is the time (in seconds)
+
+The significance of this discovery is a way of producing electrical energy in a circuit by using magnetic fields and not just batteries anymore. Useful everyday machines like motors, generators and transformers work on the principle of electromagnetic induction.

@@ -1,0 +1,57 @@
+X-rays (X-radiation) is a form of electromagnetic radiation. They are powerful waves of electromagnetic energy. Most of them have a wavelength ranging from , corresponding to frequencies in the range 30 petahertz to 30 exahertz and energies in the range 100 eV to 100 keV.
+
+ 
+
+What are x-rays?
+
+ 
+
+Who Invented the X-Ray?
+
+German physicist Wilhelm Rontgen is typically credited for the discovery of X-rays in 1895, because he was the first to comprehensively study them, though he is not thought to be the first to have seen and perceived their effects.
+
+They were found emanating from Crookes tubes, experimental discharge tubes invented around 1875, by scientists looking into the cathode rays, that is energetic electron beams, that were first formed in the tubes.
+
+ 
+
+How do X-Rays Work?
+
+They are produced when high velocity electrons collide with the metal plates, thereby giving the energy as the x-rays and themselves absorbed by the metal plate.
+
+ 
+
+How do X-Rays Work?
+
+ 
+
+Properties of X-Rays
+
+The properties are given below:
+
+They have are shorter wavelength of the electromagnetic spectrum.
+Requires high voltage to produce x-rays .
+Used to capture the human skeleton defects.
+They travel in straight line and do not carry electric charge with them.
+They are capable of traveling in vacuum.
+ 
+
+X-Rays Uses
+
+Since the discovery of X-Radiation, they are used in various field and for various purposes. Some of them are given below.
+
+Medical Science
+Security
+Astronomy
+Industry
+Restoration
+ 
+
+Medical Use: They are used for medical purpose to detect the breakage in human bones.
+
+Security: They are used as a scanner to scan the luggage of passengers in airports, rail terminals and other places.
+
+Astronomy: It is emitted by celestial objects are studied to understand the environment.
+
+Industrial Purpose: It is widely used to detect the defects in the welds.
+
+Restoration: They are used to restore old paintings.

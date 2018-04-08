@@ -1,0 +1,31 @@
+
+
+Electricity is the presence and motion of charged particles.How does energy travel through a copper wire and through space? What is electric current, electromotive force, and what makes a landing light turn on or a hydraulic pump motor run? Each of these questions requires an understanding of many basic principles. By adding one basic idea on top of other basic ideas, it becomes possible to answer most of the interesting and practical questions about electricity or electronics. Our understanding of electrical current must begin with the nature of matter. All matter is composed of molecules. All molecules are made up of atoms, which are themselves made up of electrons, protons, and neutrons.
+
+Electricity and Magnetism
+
+Electricity is often described as being either static or dynamic. The difference between the two is based simply on whether the electrons are at rest (static) or in motion (dynamic). Static electricity is a build up of an electrical charge on the surface of an object. It is considered “static” due to the fact that there is no current flowing as in AC or DC electricity. Static electricity is usually caused when non-conductive materials such as rubber, plastic or glass are rubbed together, causing a transfer of electrons, which then results in an imbalance of charges between the two materials. The fact that there is an imbalance of charges between the two materials means that the objects will exhibit an attractive or repulsive force.
+
+Electron Movement
+
+The valence of an atom determines its ability to gain or lose an electron, which ultimately determines the chemical and electrical properties of the atom. These properties can be categorized as being a conductor, semiconductor or insulator, depending on the ability of the material to produce free electrons. When a material has a large number of free electrons available, a greater current can be conducted in the material.
+
+Conductors
+
+Elements such as gold, copper, and silver possess many free electrons and make good conductors. The atoms in these materials have a few loosely bound electrons in their outer orbits. Energy in the form of heat can cause these electrons in the outer orbit to break loose and drift throughout the material. Copper and silver have one electron in their outer orbits. At room temperature, a piece of silver wire will have billions of free electrons.
+
+Insulators
+
+These are materials that do not conduct electrical current very well or not at all. Good examples of these are glass, ceramic, and plastic. Under normal conditions, atoms in these materials do not produce free electrons. The absence of the free electrons means that electrical current cannot be conducted through the material. Only when the material is in an extremely strong electrical field will the outer electrons be dislodged. This action is called breakdown and usually causes physical damage to the insulator.
+
+Semiconductors
+
+This material falls in between the characteristics of conductors and insulators, in that they are not good at conducting or insulating. Silicon and germanium are the most widely used semiconductor materials. For a more detailed explanation on this topic refer to Page 10-101 in this chapter.
+
+Electricity and Magnetism
+
+Magnetism is a concept introduced in physics to help you understand one of the fundamental interactions in nature, the interaction between moving charges. Like the gravitational force and the electrostatic force, the magnetic force is an interaction at a distance.
+
+
+
+Magnetic fields, like gravitational fields, cannot be seen or touched. We can feel the pull of the Earth’s gravitational field on ourselves and the objects around us, but we do not experience magnetic fields in such a direct way. We know of the existence of magnetic fields by their effect on objects such as magnetized pieces of metal, naturally magnetic rocks such as lodestone, or temporary magnets such as copper coils that carry an electrical current. If we place a magnetized needle on a cork in a bucket of water, it will slowly align itself with the local magnetic field. Turning on the current in a copper wire can make a nearby compass needle jump. Observations like these led to the development of the concept of magnetic fields.

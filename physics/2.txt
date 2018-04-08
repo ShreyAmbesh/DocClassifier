@@ -1,0 +1,34 @@
+In physics, electrostatics deals with the phenomena and properties of stationary or slow-moving electric charges. Electrostatic phenomena arise from the forces that electric charges exert on each other and are described by Coulomb’s law. Even though electrostatically induced forces seem to be rather weak.
+
+Coulomb’s Law of Electrostatics
+
+ 
+
+We begin with the magnitude of the electrostatic force between two point charges and . It is convenient to label one of these charges, , as a test charge, and call a source charge. As we develop the theory, more source charges will be added. If r  is the distance between two charges, then the force of electrostatic formula is:
+
+ 
+Electric field
+
+Electric field lines are useful for visualizing the electric field. Field lines begin on positive charge and terminate on negative charge. Electric field lines are parallel to the direction of the electric field, and the density of these field lines is a measure of the magnitude of the electric field at any given point.
+
+We show charge with and smallest unit charge is Coulomb . One electron and a proton have same amount of charge.
+
+ 
+
+Positively Charged Particles: In this type of particles, numbers of positive ions are larger than the numbers of negative ions. Means, the numbers of protons are larger than the number of electrons.To neutralize positively charged particles, electrons from the surroundings come to this particle until the number of protons and electrons become equal.
+
+ 
+
+Negatively Charged Particles: Similarly numbers of electrons are larger than the number of protons. To neutralize negatively charged particles, since protons cannot move and cannot come to negatively charged particles, electrons moves to the ground or any other particle around
+
+ 
+
+Neutral Particles: Include equal numbers of protons and electrons. They have both protons, neutrons and electrons however, numbers of positive ions are equal to the numbers of negative ions.
+
+ 
+
+Electrostatics examples
+
+ 
+
+There are many examples of electrostatic phenomena, from those as simple as the attraction of the plastic wrap to your hand after you remove it from a package, and the attraction of paper to a charged scale, to the apparently spontaneous explosion of grain silos, the damage of electronic components during manufacturing, and photocopier & laser printer operation.

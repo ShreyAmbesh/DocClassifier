@@ -1,0 +1,19 @@
+Biotechnology is an emerging field of research as it has the potential to solve many biological problems which could not be solved till now with the conventional techniques. Its applications extend over a broad spectrum which includes medicines, agriculture, transgenic, genetic engineering, etc. Here we will discuss the principles of biotechnology.
+
+Biotechnology
+
+Biotechnology
+Biotechnology is the use of technology to modify or manipulate any biological system or living system for the development or improvement of products for various purposes. It is widely employed in different fields of life such as agriculture, medicines and even in genetics. The ideology of traditional biotechnology has changed a lot and there is a line of division between the traditional and the modern view of biotechnology. This difference was defined by European Federation of Biotechnology (EFB) as follows: ‘The integration of natural science and organisms, cells, parts thereof, and molecular analogs for products and services’.
+
+Principles of Biotechnology
+The dawn of modern biotechnology started with two crucial technologies: genetic engineering and chemical engineering.
+
+Genetic Engineering
+
+The principle of genetic engineering is to modify the existing organisms by changing the genetic material in them. It mainly includes the recombinant DNA technology.
+
+Recombinant DNA technology is a technique which changes the phenotype of an organism (host) when a genetically altered vector is introduced and integrated into the genome of the organism. Inserting the desired gene into the genome of the host is not as easy as it sounds. It involves the selection of the desired gene for administration into the host followed by a selection of the perfect vector with which the gene has to be integrated and recombinant DNA formed. This recombinant DNA then has to be introduced into the host. And at last, it has to be maintained in the host and carried forward to the offsprings.
+
+Genetic Engineering
+
+Chemical Engineering: Modern biotechnology raised the pharmaceutical industries to the peak point. Its application resulted in many biotechnological products both in terms of quantity and quality. It improved the methods of manufacturing, storage, and maintenance. Antibiotics, enzymes, vaccines, etc are few examples.

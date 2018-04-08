@@ -1,0 +1,93 @@
+Haloalkanes and Haloarenes are a type of hydrocarbons (compounds of hydrogen and carbon). In these hydrocarbons, one or more of the hydrogen atom(s) is replaced by a halogen (group 17 elements).
+
+Haloalkanes and Haloarenes
+Hydrocarbon
+
+The difference between haloalkanes and haloarenes is that haloalkanes are derived from alkanes (open chain hydrocarbons) while haloarenes are derived from aromatic hydrocarbons (hydrocarbons with sigma bonds and delocalized pi electrons between carbon atoms forming rings).
+
+Comparison between Haloalkanes and Haloarenes
+Haloalkanes	Haloarenes
+ 
+The halogen is attached to sp3 hybridised carbon atom.
+
+ 
+
+The halogen is attached to sp3 hybridised carbon atom
+Presence of halogen makes it more reactive than the parent alkane.
+ 
+
+Presence of halogen makes it more reactive than the parent aromatic compound.
+ 
+
+ 
+It is used as solvent for many non-polar covalent compounds.
+
+ 
+
+Similar to haloalkanes, it is also used as solvent for covalent compounds.
+ 
+It has medicinal uses.
+
+ 
+
+It also has many medicinal uses.
+ 
+
+Moreover some of the synthetically made halogen compounds also help in making medicine for malaria and many other deadly diseases.
+
+Classification of Haloalkanes and Haloarenes
+On the basis of number of halogen atoms : –
+ 3 types
+
+(This classification is based on the number of halogen atoms present in the hydrocarbon)
+
+1.       Monohaloalkanes (1 halogen atom is attached)
+2.       Dihaloalkanes (2 halogen atomsare attached)
+
+3.       Trihaloalkanes (3 halogen atomsare attached)
+
+ 
+
+1.       Monohaloarenes (1 halogen atom is attached)
+
+2.       Dihaloarenes (2 halogen atomsare attached)
+
+3.       Trihaloarenes (3 halogen atomsare attached)
+
+Compounds containing sp3 C-X  bond
+3 types
+
+(This classification is based on the hybrisization of carbon atom to which the halogen atom is attached and the adjacent carbon atoms.)
+
+ 
+
+ 
+
+1.       Alkyl halide
+Halogen atomis attached to an alkyl group
+
+2.       Allylic halide
+
+Halogen atomis attached to sp3 hybridised carbon which is adjacent to C=C (double bond or sp2 hybridised carbon)
+
+3.       Benzylic halide
+
+Halogen atom is attached to sp3 hybridised carbon atom which is attached to a benzene ring.
+
+Compound containing sp2 C-X  bond
+2 types
+
+(This classification is based on the hybrisization of carbon atom to which the halogen atom is attached and the adjacent carbon atoms.)
+
+ 
+
+1.       Vinylic Halides
+Halogen atom is attached to C=C (double bond orsp2 hybridised carbon)
+
+2.       Aryl halide
+
+Halogen atom is attached to sp2 hybridised carbon of an aromatic ring.
+
+Read more on Nomenclature of Haloalkanes
+
+This was a brief introduction to haloalkanes and haloarenes and their classification.
