@@ -99,7 +99,7 @@ void makeClassList()
   int n=0;
   struct dirent *ent;
 
-  if ((dir = opendir("../C/")) != NULL) {
+  if ((dir = opendir("../DocClassifier/")) != NULL) {
 
     while ((ent = readdir(dir)) != NULL) {
 
