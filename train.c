@@ -99,11 +99,11 @@ void makeClassList()
   int n=0;
   struct dirent *ent;
 
-  if ((dir = opendir("../DocClassifier-master/")) != NULL) {
+  if ((dir = opendir("./")) != NULL) {
 
     while ((ent = readdir(dir)) != NULL) {
 
-      if((ent->d_type != DT_REG) && (!(strcmp(ent->d_name,".") == 0 || strcmp(ent->d_name,"..") == 0)))
+      if((ent->d_type != DT_REG) && (!(strcmp(ent->d_name,".") == 0 || strcmp(ent->d_name,"..") == 0 || strcmp(ent->d_name,".git") == 0)))
       {
         classes=realloc(classes,(n+1)*sizeof(char *));
         classes[n] = malloc(30*sizeof(char));
