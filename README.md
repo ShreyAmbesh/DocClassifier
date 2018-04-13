@@ -1,4 +1,4 @@
-# DocClassifier
+# Document Classifier
 
 ## INTRODUCTION
 
