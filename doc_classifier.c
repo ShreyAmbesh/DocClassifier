@@ -295,12 +295,8 @@ void predictClass()
 			resultPos=i;	
 		}
 	}
-	if (pMax<1)
-	{
-		printf("The Document belongs to none of the class\n");
-	}
-	else
-		printf("The Document is of %s Class\n",classes[resultPos]);
+	
+	printf("The Document is of %s Class\n",classes[resultPos]);
 
 }
 
